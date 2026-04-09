@@ -1,0 +1,1 @@
+# captura-snapshot-download-offline-servidor-local
